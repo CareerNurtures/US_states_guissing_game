@@ -9,7 +9,7 @@ turtle.shape(bg_image)
 
 
 states = data["state"].tolist()
-score = 48
+score = 0
 guessed = []
 game_repeat = True
 while game_repeat:
